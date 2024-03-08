@@ -13,6 +13,5 @@ This repository contains the code and resources for performing Speech Emotion Re
   ![image](https://github.com/muhammadmehdi89/Speech-Emotion-Recognition/assets/142395586/07e8908d-9f15-4824-b835-8c0759cdaab5)
 
 ### 4. Visualization tools for analyzing results.
-    ![image](https://github.com/muhammadmehdi89/Speech-Emotion-Recognition/assets/142395586/2fa3140c-e863-4824-adee-a712019f774f)
-  ![image](https://github.com/muhammadmehdi89/Speech-Emotion-Recognition/assets/142395586/7bb055a9-1c9a-4bc8-88ba-eaa4fc3c2d5c)
-
+    ![image](https://github.com/muhammadmehdi89/Speech-Emotion-Recognition/assets/142395586/29dc41d4-20cf-449a-89c9-371ccf6efcaf)
+    ![image](https://github.com/muhammadmehdi89/Speech-Emotion-Recognition/assets/142395586/4f8ba67c-9930-4c60-b4b6-4427376e7fa0)
